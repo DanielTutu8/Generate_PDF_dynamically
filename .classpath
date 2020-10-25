@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Eclipse/connectors/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/connectors/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
